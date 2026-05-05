@@ -22,7 +22,7 @@ MODEL_PATH = "C:/Users/NARESHSARATHY S/Downloads/TML Solution/model.pt"
 OUTPUT_CSV = Path("C:/Users/NARESHSARATHY S/Downloads/TML Solution/submission.csv")
 
 BASE_URL = "http://34.63.153.158"   #DONOT CHANGE
-API_KEY = "4b2da9e44558e2777baf34d16c78437b"
+API_KEY = "YOUR API KEY"
 TASK_ID = "01-mia"  #DONOT CHANGE
 
 
